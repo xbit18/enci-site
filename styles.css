@@ -12,7 +12,7 @@ body {
 
 .container {
   height: 100%;
-  max-width: 800px;
+  min-width: 700px;
   padding: 20px;
   text-align: center;
   display: flex;
